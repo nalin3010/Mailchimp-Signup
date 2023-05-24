@@ -1,1 +1,1 @@
-# Mailchimp-Signup
+# Newsletter-Signup
